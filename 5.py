@@ -1,7 +1,6 @@
-# Product of two numbers
-num1 = 5
-num2 = 8
+# Sum of two numbers
+num1 = 10
+num2 = 20
 
-product_result = num1 * num2
-print(f"Product of {num1} and {num2} is: {product_result}")
-
+sum_result = num1 + num2
+print(f"Sum of {num1} and {num2} is: {sum_result}")
